@@ -39,7 +39,6 @@ require_once("./client.php");
         </div>
     </form>
 
-    salama zareo a 
 </body>
 
 </html>
