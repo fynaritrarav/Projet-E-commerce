@@ -38,6 +38,8 @@ require_once("./client.php");
             <button type="submit" name="bouton">Inscrire</button>
         </div>
     </form>
+
+    salama zareo a 
 </body>
 
 </html>
